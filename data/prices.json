@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T23:57:59+00:00",
+  "generatedAt": "2026-09-25T03:57:40+00:00",
   "stations": {
     "dietzenbach": {
       "label": "Esso",
       "place": "Dietzenbach",
       "address": "Hauptstr. 7, 63128 Dietzenbach",
-      "status": "closed",
-      "e5": null
+      "status": "open",
+      "e5": 2.289
     },
     "bielefeld": {
       "label": "12. Mann",
