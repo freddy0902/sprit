@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:03:30+00:00",
+  "generatedAt": "2026-10-04T20:03:40+00:00",
   "stations": {
     "dietzenbach": {
       "label": "Esso",
@@ -12,8 +12,8 @@
       "label": "12. Mann",
       "place": "Bielefeld",
       "address": "Jakob-Kaiser-Str. 28, 33615 Bielefeld",
-      "status": "open",
-      "e5": 2.209
+      "status": "closed",
+      "e5": null
     }
   }
 }
