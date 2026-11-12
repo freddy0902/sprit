@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:12:24+00:00",
+  "generatedAt": "2026-11-12T15:58:57+00:00",
   "stations": {
     "dietzenbach": {
       "label": "Esso",
@@ -13,7 +13,7 @@
       "place": "Bielefeld",
       "address": "Jakob-Kaiser-Str. 28, 33615 Bielefeld",
       "status": "open",
-      "e5": 2.009
+      "e5": 2.029
     }
   }
 }
